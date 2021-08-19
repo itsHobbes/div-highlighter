@@ -1,6 +1,6 @@
 {
     "name": "Div Highlighter",
-    "version": "1.0",
+    "version": "1.1",
     "description": "tool to highlight divs!",
     "content_scripts": [
         {
